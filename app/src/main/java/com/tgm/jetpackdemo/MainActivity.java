@@ -24,6 +24,9 @@ import javax.inject.Inject;
 
 import dagger.hilt.android.AndroidEntryPoint;
 
+/**
+ * Hilt的注入使用demo
+ */
 @AndroidEntryPoint
 public class MainActivity extends AppCompatActivity {
 
